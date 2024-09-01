@@ -86,7 +86,9 @@
   "itemTagInheritance": {},
   "blockTagInheritanceMode": "ALLOW",
   "blockTagInheritance": {},
-  "ignoredTags": [],
+  "ignoredTags": [
+    "excompressum:mineable/hammer"
+  ],
   "ignoredItems": [],
   "ignoredRecipeTypes": [
     "cucumber:shaped_tag"
