@@ -1,0 +1,13 @@
+name = "Ex Nihilo Extras"
+filename = "exnihiloextras-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d185e44b67e7d69da6efc19071658827c4b3cfea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5496509
+project-id = 897084

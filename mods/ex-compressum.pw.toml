@@ -1,0 +1,13 @@
+name = "Ex Compressum"
+filename = "excompressum-forge-1.20.1-20.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9762f9d9bf9e6926d283206b1efb6e1a7a683ae9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5623753
+project-id = 241967
