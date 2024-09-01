@@ -122,7 +122,7 @@ hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3915d058c63192deec27448af23e99f4659d1448ba302b877de0068bbbd2bea1"
+hash = "9765c04a09f95f0ae8aa793a19aea04f97c724b1a2e6ad6e280185a8ab7e7162"
 
 [[files]]
 file = "config/biggerreactors-client.toml"
