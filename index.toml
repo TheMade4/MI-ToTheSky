@@ -130,7 +130,7 @@ hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "561d61ca9a1bd6d3ae89b33b411462162a996815cc09cca0b164b492b509d6fe"
+hash = "15450727d840537d8f9bb9b55b23c0924a53ba824514a7df973389d38acbe13f"
 
 [[files]]
 file = "config/biggerreactors-client.toml"
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-builder.pw.toml"
-hash = "6d06d677d7755ba0641d599ebcec6d1ca9739172f1f5385599d17981b747b1c1"
+hash = "5e8a989a97ba1ebc9a59d72037f16fb0c9bddddc9f4da0f00cf1d3425ad53f3c"
 metafile = true
 
 [[files]]
