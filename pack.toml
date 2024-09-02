@@ -1,12 +1,12 @@
 name = "MI: To The Sky"
 author = "TheMade4"
-version = "2.1.0"
+version = "2.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "632fb99682ec5307a8de0cb7e0349f681df0713b921ee40ac7032e0864d6739b"
+hash = "c513db9aba80be9252c06eba937179ab76c6d1369de4fafe89c7012c77aa752c"
 
 [versions]
 forge = "47.3.7"
